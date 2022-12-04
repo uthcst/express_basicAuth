@@ -1,5 +1,5 @@
 {
-  "name": "nodejs_hello",
+  "name": "express_basicAuth",
   "version": "1.0.0",
   "description": "nodejs express_basicAuth",
   "main": "app.js",
